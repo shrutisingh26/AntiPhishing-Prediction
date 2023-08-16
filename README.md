@@ -11,6 +11,6 @@ Machine Learning Algorithms used are:
 * Naïve Bayes Classifier Algorithm
 * Random Forest Algorithm
 
-# Details about the Files:
+# Details about the Files
 * An Anti-Phishing Prediction Model based on Machine Learning Algorithms with an accuracy of nearly 98%. This accuracy is good enough to detect most of the phishing sites.
 * Phishing_Legitimate_full.csv - A preprocessed dataset on Phishing Legitimate which is used for training and testing of the model.
